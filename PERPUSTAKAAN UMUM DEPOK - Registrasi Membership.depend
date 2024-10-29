@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1729989938 source:c:\users\falli\desktop\bahasa c gunadarma\perpustakaan umum depok - registrasi membership\registrasi.c
+
+1730120670 source:c:\users\falli\desktop\bahasa c gunadarma\perpustakaan umum depok - registrasi membership\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1730120680 source:c:\users\falli\desktop\bahasa c gunadarma\perpustakaan umum depok - registrasi membership\pinjamkembali.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
